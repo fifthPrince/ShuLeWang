@@ -1,0 +1,22 @@
+{
+  "name": "shulewang",
+  "version": "1.0.0",
+  "description": "Trustable e-commerce platform",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fruit",
+    "e-commerce"
+  ],
+  "author": "SeedBros",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "log4js": "^0.6.38",
+    "sqlite3": "^3.1.7"
+  }
+}
